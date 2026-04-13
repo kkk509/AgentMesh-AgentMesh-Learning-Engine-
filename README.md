@@ -1,8 +1,6 @@
 # 🎓AgentMesh 学习引擎
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](python/)
-[![Java](https://img.shields.io/badge/Java-21+-red.svg)](java/)
-[![Go](https://img.shields.io/badge/Go-1.22+-cyan.svg)](golang/)
 [![React](https://img.shields.io/badge/React-18+-purple.svg)](frontend/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
